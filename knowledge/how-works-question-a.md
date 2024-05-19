@@ -6,7 +6,7 @@
 Las siguientes siguientes librerías de C++: curl, openssl, ssl y zlib, ¿en qué se relacionan? ¿son dependientes unas de otras?
 ```
 
-## ChatGPT answer:
+## B. ChatGPT answer:
 
 Las librerías `curl`, `openssl`, `ssl` y `zlib` están relacionadas en el contexto de manejo de comunicaciones de red seguras, compresión de datos y transferencias eficientes. A continuación se explica cómo se relacionan y sus dependencias:
 

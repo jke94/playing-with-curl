@@ -1,5 +1,7 @@
 # Playing with Curl
 
+Demonstration how a c++ console application can be built to works with Curl to do HTTPS request.
+
 ## A. Build and run docker-compose.
 
 ```

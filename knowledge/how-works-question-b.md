@@ -6,7 +6,7 @@
 Las siguientes siguientes librerías de C++: curl, openssl, ssl, zlib y gsoap, ¿en qué se relacionan? ¿son dependientes unas de otras?
 ```
 
-## ChatGPT answer:
+## B. ChatGPT answer:
 
 Las librerías `curl`, `openssl`, `ssl`, `zlib`, y `gsoap` están relacionadas en el contexto de manejo de comunicaciones de red seguras, servicios web, y compresión de datos. Aquí se explica cómo se relacionan y sus dependencias:
 
