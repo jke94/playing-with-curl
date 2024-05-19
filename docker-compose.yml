@@ -1,0 +1,6 @@
+version: '3.20'
+services:
+  building-libcurl-with-example:
+    build:
+      context: .
+      dockerfile: Dockerfile
